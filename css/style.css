@@ -1984,7 +1984,7 @@ input._error {
       writing-mode: vertical-rl;
   text-orientation: upright;
   letter-spacing: -2.3px;
-  font-size: 14px;
+  font-size: 18px;
   top: 0;
   background-color: #a1b5db;
   color: #fff;
@@ -3152,6 +3152,10 @@ input._error {
 
   .item-options {
     row-gap: 10px;
+  }
+
+  .item-options__recommend {
+    font-size: 14.5px;
   }
 
   .item-options__content {
